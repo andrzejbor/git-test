@@ -10,10 +10,12 @@ public class Example {
 		
 		int a= scanner.nextInt();
 		int b= scanner.nextInt();
+		int x= scanner.nextInt();
+		int y= scanner.nextInt();
 		
 		System.out.println("Suma: "+(a+b));
 		
-		
+
 	}
 
 }
