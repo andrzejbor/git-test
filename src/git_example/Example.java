@@ -9,7 +9,8 @@ public class Example {
 		Scanner scanner = new Scanner(System.in);
 		
 		
-
+		int a=5;
+		
 	}
 
 }
